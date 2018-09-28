@@ -1,0 +1,9 @@
+---
+
+- id: flake8-diff
+  name: flake8-diff
+  description: Run flake8 accross a set of diffs
+  entry: flake8-diff
+  language: python
+  language_version: python3
+  types: [python]
